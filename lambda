@@ -1,0 +1,11 @@
+square = lambda X : X*X
+print("Square of 4 is",square(4))
+
+cube = lambda X : X*X*X
+print("cube of 5 is",cube(5))
+
+addition = lambda A,B : A+B
+print("Addition of 5 is",addition(5,5))
+
+sub = lambda A,B : A-B
+print("Subtraction of 5 is",sub(5,5))
